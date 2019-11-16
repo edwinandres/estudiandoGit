@@ -1,3 +1,4 @@
 Esta linea de codigo la cree desde gitHub
 esta linea la cree desde mi pc
-esta tercera linea para ver la diferencia entre commits
+
+añado mas lineas simultaneas con hub y mi pc para ver que pasa
